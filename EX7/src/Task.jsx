@@ -10,5 +10,4 @@ function Task({task,onToggle,onDelete}){
     );
 }
 
-
 export default Task;
